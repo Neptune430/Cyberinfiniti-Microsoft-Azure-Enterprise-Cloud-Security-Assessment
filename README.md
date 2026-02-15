@@ -92,7 +92,7 @@ The following services were implemented and evaluated:
 - Microsoft Sentinel
 - Azure Logic Apps (SOAR)
 
-All resources deployed in **East US** under segmented resource groups.
+All resources deployed in **East US** under (TEAM8) segmented resource groups.
 
 ---
 
