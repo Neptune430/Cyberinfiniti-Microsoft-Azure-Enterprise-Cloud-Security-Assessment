@@ -423,4 +423,8 @@ By integrating:
 
 Cyberinfiniti Ltd achieved a defensible, monitored, and resilient cloud security posture suitable for modern enterprise operations.
 
+
+
+Prepared by: John Ofulue (TEAM LEAD, Cyber Security Analyst TEAM 8 CYBLACK)
+
 ---
